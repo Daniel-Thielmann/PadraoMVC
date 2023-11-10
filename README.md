@@ -1,2 +1,0 @@
-# PadraoMVC
-PHP-HTML-CSS-JS
